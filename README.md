@@ -1,3 +1,4 @@
+![logo](https://github.com/NikhilThutte/NikhilThutte/blob/main/background%20banner.png)
 <h1 align="center">Hi 👋, I'm Nikhil Thutte</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
